@@ -1,6 +1,6 @@
 # ASL3 Node List Announcer
 
-**Version 0.3.0**
+**Version 1.0.0**
 
 ASL3 Node List Announcer creates a spoken report of the numeric AllStarLink nodes configured on a local ASL3 server. The report is generated with the official `asl-tts` utility and can be requested from the local radio using a DTMF command.
 
