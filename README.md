@@ -12,7 +12,7 @@ The default command is:
 
 The generated announcement begins with **two seconds of silence**. This gives the receiving radio time to open its squelch before the spoken report begins.
 
-## Version 0.3.0 improvements
+## Version 1.0.0 improvements
 
 - Changes the default DTMF command from `*997` to the live-tested `*698`.
 - Detects exact DTMF conflicts.
