@@ -40,6 +40,11 @@ The generated announcement begins with **two seconds of silence**. This gives th
 The installer installs `python3` and `asl3-tts` through APT when they are missing.
 
 ## Installation
+You can download it manually
+```
+sudo wget https://raw.githubusercontent.com/KD5FMU/ASL3-Node-Number-Announcer/refs/heads/main/install_asl3_node_list_announcer.sh
+```
+or
 
 Download or clone the repository, then run:
 
